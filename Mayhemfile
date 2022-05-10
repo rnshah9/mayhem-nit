@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-nit
+target: nitc
+
+cmds:
+  - cmd: /nit/bin/nitc @@
