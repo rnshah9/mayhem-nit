@@ -3,3 +3,4 @@ target: nitc
 
 cmds:
   - cmd: /nit/bin/nitc @@
+    filepath: /test.nit
